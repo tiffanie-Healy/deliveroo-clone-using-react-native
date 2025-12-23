@@ -1,3 +1,3 @@
 <h2 style="text-align:center">Deliveroo Clone using React Native</h2><br/><br/>
-
-![deliveroo clone using react native](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/Deliveroo%20Clone%20using%20React%20Native.webp) <br/><br/>The deliveroo clone using react native frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=tiffanie-deliveroo-clone-using-react-native" target="_blank">click here</a>.
+ 
+ ![deliveroo clone using react native](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/tiffanie/Deliveroo%20Clone%20using%20React%20Native.webp) <br/><br/>The deliveroo clone using react native frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/tiffanie-deliveroo-clone-using-react-native" target="_blank">click here</a>.
